@@ -31,3 +31,5 @@ urls:
     name: Server
 plugins:
   - topbar
+customeSiteTitle: "PlayFab API"
+ 
