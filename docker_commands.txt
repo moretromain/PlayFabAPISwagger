@@ -4,3 +4,7 @@ docker run -p 80:8080 -e BASE_URL="/playfabapi" -e CONFIG_URL="file:///C:/PlayFa
 docker run -p 80:8080 -e BASE_URL="/playfabapi" -e URLS="[ { \"url\": \"https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Client.swagger.json\", \"name\": \"Client\" }, { \"url\": \"https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Admin.swagger.json\", \"name\": \"Admin\" } ]" swaggerapi/swagger-ui
 
 docker run -p 80:8080 -e BASE_URL="/playfabapi" -e CONFIG_URL="file:///C:/PlayFabAPI/" swaggerapi/swagger-ui
+
+
+
+docker run -p 80:8080 -e BASE_URL="/playfabapi" -e CONFIG_URL="https://raw.githubusercontent.com/moretromain/PlayFabAPISwagger/main/swagger-config.yaml" swaggerapi/swagger-ui

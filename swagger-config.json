@@ -1,12 +1,71 @@
 {
   "urls": [
     {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Admin.swagger.json",
+      "name": "Admin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Authentication.swagger.json",
+      "name": "Authentication"
+    },
+    {
       "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Client.swagger.json",
       "name": "Client"
     },
     {
-      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Admin.swagger.json",
-      "name": "Admin"
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/CloudScript.swagger.json",
+      "name": "CloudScript"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Data.swagger.json",
+      "name": "Data"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Economy.swagger.json",
+      "name": "Economy"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Events.swagger.json",
+      "name": "Events"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Experimentation.swagger.json",
+      "name": "Experimentation"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Groups.swagger.json",
+      "name": "Groups"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Insights.swagger.json",
+      "name": "Insights"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Leaderboards.swagger.json",
+      "name": "Leaderboards"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Localization.swagger.json",
+      "name": "Localization"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Matchmaker.swagger.json",
+      "name": "Matchmaker"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Multiplayer.swagger.json",
+      "name": "Multiplayer"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Profiles.swagger.json",
+      "name": "Profiles"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Server.swagger.json",
+      "name": "Server"
     }
+  ],
+  plugins: [
+    "topbar"
   ]
 }
