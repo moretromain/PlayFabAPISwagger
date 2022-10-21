@@ -1,0 +1,5 @@
+urls:
+  - url: https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Client.swagger.json
+    name: Client
+  - url: https://raw.githubusercontent.com/PlayFab/API_Specs/master/Swagger/PlayFab/Admin.swagger.json
+    name: Admin
